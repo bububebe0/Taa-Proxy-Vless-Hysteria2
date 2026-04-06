@@ -2,13 +2,18 @@
 
 [Download | github](https://github.com/bububebe0/Taa-client-Vless-Hysteria2/releases)
 
+### АНТИВИРУС МОЖЕТ РУГАТЬСЯ
+
+> Это ложное срабатывание(Ругается из-за неизвестного издателя)
+Все  действия являются штатными для легитимного прокси-клиента. Приложение не содержит вредоносного кода, не собирает данные, не устанавливает скрытые компоненты. Оно просто предоставляет удобный интерфейс для управления прокси.
+
 -------------------------------------------------------------------------------------------
 
-Taa Proxy графический клиент для подключения к прокси-серверам типа VLESS и Hysteria2. Приложение запускает локальный прокси-сервер  и настраивает системный прокси Windows, позволяя маршрутизировать трафик через выбранный сервер.
+Taa Proxy  клиент для подключения к прокси-серверам типа VLESS и Hysteria2. Приложение запускает локальный прокси-сервер  и настраивает системный прокси Windows, позволяя маршрутизировать трафик через выбранный сервер.
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Taa Plient is a graphical client for connecting to VLESS and Hysteria2 proxy servers. It runs a local proxy server (via sing-box) and configures the Windows system proxy to route traffic through the selected server.
+Taa Plient is a client for connecting to VLESS and Hysteria2 proxy servers. It runs a local proxy server (via sing-box) and configures the Windows system proxy to route traffic through the selected server.
 
 
