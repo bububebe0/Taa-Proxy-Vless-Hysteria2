@@ -9,15 +9,6 @@
 
 -------------------------------------------------------------------------------------------
 
-Taa Proxy  клиент для подключения к прокси-серверам типа VLESS и Hysteria2. Приложение запускает локальный прокси-сервер  и настраивает системный прокси Windows, позволяя маршрутизировать трафик через выбранный сервер.
-
-
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Taa Plient is a client for connecting to VLESS and Hysteria2 proxy servers. It runs a local proxy server (via sing-box) and configures the Windows system proxy to route traffic through the selected server.
-
-
-
 # Taa Proxy
 
 > **Windows GUI-клиент для VLESS и Hysteria2 прокси-серверов на базе [sing-box](https://github.com/SagerNet/sing-box)**
